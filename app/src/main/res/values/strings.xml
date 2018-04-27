@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ClockApp</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="defaultTime">00:00,00</string>
+</resources>

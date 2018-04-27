@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "190213706045",
+    "firebase_url": "https://clockapp-e1844.firebaseio.com",
+    "project_id": "clockapp-e1844",
+    "storage_bucket": "clockapp-e1844.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190213706045:android:8cf5d786092c451f",
+        "android_client_info": {
+          "package_name": "com.example.tom.clockapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190213706045-7j84an3q5udo2ll03ao4o2f1enjk08j9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tom.clockapp",
+            "certificate_hash": "669c333dc302109fc3d66a3b97dabe9e818dc6c2"
+          }
+        },
+        {
+          "client_id": "190213706045-dv20k6gagscsisbpdvuoe26gl52stceu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0cOjuWKDjgSsxygAb69PV6w31VJHQJHc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190213706045-dv20k6gagscsisbpdvuoe26gl52stceu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
